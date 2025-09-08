@@ -117,7 +117,7 @@ https://68b826bcb715405043274639.mockapi.io/api/properties/PropertyListing
 
 ## 🎥 Video Demonstration
 
-👉 [Click here to watch the full demo](https://drive.google.com/file/d/1LGCQpOo0aTD2l31UKW_EPmKc6IvWQu2N/view?usp=drive_link)
+👉 [Click here to watch the full demo](https://drive.google.com/file/d/1LGCQpOo0aTD2l31UKW_EPmKc6IvWQu2N/view?usp=sharing)
 
 ---
 
