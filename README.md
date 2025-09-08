@@ -102,16 +102,16 @@ https://68b826bcb715405043274639.mockapi.io/api/properties/PropertyListing
 👉 Add screenshots of each page here:
 
 * **Home Page**
-  ![Home Screenshot](src\assets\home_screenshot.png)
+  ![Home Screenshot](src/assets/home_screenshot.png)
 
 * **Listings Page**
-  ![Listings Screenshot](https://drive.google.com/file/d/1NoQw-sH3Ob6ETAWfwPe-JO0Fe70kHV6p/view?usp=drive_link)
+  ![Listings Screenshot](src/assets/listings_screenshot.png)
 
 * **Login Page**
-  ![Login Screenshot](https://drive.google.com/file/d/1HfUTzX7O2-LVvz83NVeNOvU0kV8_F2g4/view?usp=drive_link)
+  ![Login Screenshot](src/assets/login_screenshot.png)
 
 * **Signup Page**
-  ![Signup Screenshot](https://drive.google.com/file/d/1HPALGU2UdOxZFBdwX8tkbR68kX5XUQEX/view?usp=drive_link)
+  ![Signup Screenshot](src/assets/signup_screenshot.png)
 
 ---
 
